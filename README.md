@@ -2,6 +2,7 @@
 
 A Dice Roller App for Entertaiment. The app will let the user to roll the dice virtually when the 'Roll' button is pressed.
 
+Part of Google Developers Android Course Unit 2.
 
 ### Application Architecture
 ---
